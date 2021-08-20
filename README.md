@@ -7,8 +7,8 @@ We present a multi-stage prioritization strategy based on Bayesian multiple-trai
 
 Directory structure in this GitHub repository
 ----------------------------------------------
-- **Kidney_mQTL** *~~~~~~~~Custom code for mQTL mapping and analysis.*
 - **eGFR_GWAS** *~~~~~~~~Custom code for meta-analysis of eGFR GWAS.*
+- **Kidney_mQTL** *~~~~~~~~Custom code for mQTL mapping and analysis.*
 - **Kidney_eQTL** *~~~~~~~~Custom code for meta-analysis of kidney eQTL.*
 - **Kidney_snATAC** *~~~~~~~~Custom code for snATAC data processing and anlaysis.*
 - **GWAS_heritability** *~~~~~~~~Custom code for heritability estimation and analysis.*
