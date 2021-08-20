@@ -15,12 +15,6 @@ Directory structure in this GitHub repository
 - **Gene_prioritization** *~~~~~~~~Custom code for kidney disease target gene prioritization.*
 
 
-Key info
--------
-- **Dataset List** *~~~~~~~~List of public datasets used in this study.*
-- **Software List** *~~~~~~~~List of software used in this study.*
-
-
 Useful links
 ------------------
 - Susztaklab Kidney Biobank: https://susztaklab.com
