@@ -19,4 +19,4 @@ Useful links
 ------------------
 - Susztaklab Kidney Biobank: https://susztaklab.com
 - Susztak Lab: https://www.med.upenn.edu/susztaklab
-- For any question, you are welcome to contact us: hongbo.liupennmedicine.upenn.edu or ksusztak@pennmedicine.upenn.edu
+- For any question, you are welcome to contact us: hongbo.liu@pennmedicine.upenn.edu or ksusztak@pennmedicine.upenn.edu
