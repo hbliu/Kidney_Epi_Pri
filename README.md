@@ -25,5 +25,3 @@ Useful links
 ------------------
 - Susztaklab Kidney Biobank: https://susztaklab.com
 - Susztak Lab: https://www.med.upenn.edu/susztaklab
-
-
