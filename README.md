@@ -1,8 +1,8 @@
 Kidney Epigenome and Transcriptome-based Multi-stage Prioritization for Kidney Disease
 ======================================================================================
 
-We define the genetic architecture of kidney function in 1.5 million subjects and identify 727 (136 novel) loci. We map the genotype effect on the methylome (methylation quantitative trait mQTL) in 443 human kidneys, on the transcriptome (eQTL) in 686 samples, and on single cell open chromatin in 57,282 human kidney cells.
-We present a multi-stage prioritization strategy based on Bayesian multiple-trait colocalization, mendelian randomization, single cell co-accessibility and enhancer-promoter contacts. We report that methylation variation explains a larger fraction of GWAS heritability than gene expression. We assign target genes for 87% of GWAS loci, but the closest gene was only prioritized 30% of the time. We highlight the key role of proximal tubules and metabolism in kidney function regulation. We further define the causal role of _SLC47A1_ in kidney disease in mice with genetic loss of _Slc47a1_ and in human subjects carrying loss-of-function variants. 
+More than 800 million people suffer from kidney disease, yet the mechanism of kidney dysfunction is poorly understood, as gene-regulatory annotation of disease loci is highly incomplete. The epigenome could provide critical insight into disease understanding as it integrates genetic and environmental signals. Here we provided a comprehensive analysis of the genetic determinant of human kidney function by integrating kidney transcriptome, bulk and single cell epigenome. Our findings emphasize the key role of bulk and single-cell epigenomic information in translating genome-wide association studies into identifying causal genes, cellular origins and mechanisms of complex traits.
+This repository provides the dataset, software and custom code used in this study.
 
 
 Directory structure in this GitHub repository
@@ -19,3 +19,4 @@ Useful links
 ------------------
 - Susztaklab Kidney Biobank: https://susztaklab.com
 - Susztak Lab: https://www.med.upenn.edu/susztaklab
+- For any question, you are welcome to contact us: hongbo.liupennmedicine.upenn.edu or ksusztak@pennmedicine.upenn.edu
