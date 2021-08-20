@@ -1,5 +1,5 @@
 ###########################################################################
-#####    Annotation of GWAS SNP target genes based on multiple data   #####
+##### Target genes prioritization for eGFR GWAS SNPs using multiple data ##
 ###########################################################################
 ##### Step1: Collect 8 Datasets for Gene Prioritization for eGFR GWAS SNPs
 # (1) Significant SNP~gene associations by kidney eQTL (FDR < 0.05); 
