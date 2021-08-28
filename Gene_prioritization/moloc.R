@@ -97,10 +97,7 @@ for (Index in 1:nrow(IndexSNP)){
   			eqtl <- Current.GWAS.mQTL.eQTL[,c("RSID","eQTL_BETA","eQTL_SE","eQTL_PVAL","eQTL_N","MAF")]; eqtl[,7] <- "quant"; colnames(eqtl) <- c("SNP","BETA","SE","PVAL","N","MAF","type");
 
   			Current.GWAS.mQTL.eQTL.moloc  <- list(gwas,mqtl,eqtl)
-  			#moloc <- moloc_test(Current.GWAS.mQTL.eQTL.moloc, prior_var = 0.15^2, priors=c(1e-04, 1e-5, 1e-06))                 ### test
-  			#moloc <- moloc_test(Current.GWAS.mQTL.eQTL.moloc, prior_var = c(0.01, 0.1, 0.5), priors=c(1e-04, 1e-06, 1e-07))     ### test
-  			
-  			moloc <- moloc_test(Current.GWAS.mQTL.eQTL.moloc)     ### used for further analysis (default parameters)
+  			moloc <- moloc_test(Current.GWAS.mQTL.eQTL.moloc)       ### used for further analysis (default parameters)
   			
   			# moloc
   			Current.res.moloc[1,25] <- moloc$nsnps
