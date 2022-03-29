@@ -13,6 +13,7 @@ Directory structure in this GitHub repository
 - **Kidney_snATAC** *~~~~~~~~Custom code for snATAC data processing and anlaysis.*
 - **GWAS_heritability** *~~~~~~~~Custom code for heritability estimation and analysis.*
 - **Gene_prioritization** *~~~~~~~~Custom code for kidney disease target gene prioritization.*
+- **Figure_Code** *~~~~~~~~Custom code for ploting main figures.*
 
 
 Useful links
