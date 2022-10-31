@@ -28,4 +28,5 @@ Useful links
 
 Reference
 ------------------
-Epigenomic and transcriptomic analyses define core cell types, genes and targetable mechanisms for kidney disease. Hongbo Liu, Tomohito Doke, Dong Guo, Xin Sheng, Ziyuan Ma, Joseph Park, Ha My T. Vy, Girish N. Nadkarni, Amin Abedini, Zhen Miao, Matthew Palmer, Benjamin F. Voight, Hongzhe Li, Christopher D. Brown, Marylyn D. Ritchie, Yan Shu and Katalin Susztak. Nature Genetics (2022) https://www.nature.com/articles/s41588-022-01097-w
+Epigenomic and transcriptomic analyses define core cell types, genes and targetable mechanisms for kidney disease. Hongbo Liu, Tomohito Doke, Dong Guo, Xin Sheng, Ziyuan Ma, Joseph Park, Ha My T. Vy, Girish N. Nadkarni, Amin Abedini, Zhen Miao, Matthew Palmer, Benjamin F. Voight, Hongzhe Li, Christopher D. Brown, Marylyn D. Ritchie, Yan Shu and Katalin Susztak. Nature Genetics (2022) 
+https://www.nature.com/articles/s41588-022-01097-w
