@@ -18,6 +18,14 @@ Directory structure in this GitHub repository
 
 Useful links
 ------------------
-- Susztaklab Kidney Biobank: https://susztaklab.com
+- eGFRcrea GWAS (1.5 million individuals): https://susztaklab.com/GWAS
+- Human Kidney meQTL Atlas: http://www.susztaklab.com/Kidney_meQTL
+- Human Kidney eQTL Atlas: http://www.susztaklab.com/Kidney_eQTL
+- Human Kidney Open Chromatin Atlas: http://www.susztaklab.com/Human_snATAC
 - Susztak Lab: https://www.med.upenn.edu/susztaklab
+- Susztak Lab Kidney Biobank: http://www.susztaklab.com
 - For any question, please contact us hongbo.liu@pennmedicine.upenn.edu and ksusztak@pennmedicine.upenn.edu
+
+Reference
+------------------
+Epigenomic and transcriptomic analyses define core cell types, genes and targetable mechanisms for kidney disease. Hongbo Liu, Tomohito Doke, Dong Guo, Xin Sheng, Ziyuan Ma, Joseph Park, Ha My T. Vy, Girish N. Nadkarni, Amin Abedini, Zhen Miao, Matthew Palmer, Benjamin F. Voight, Hongzhe Li, Christopher D. Brown, Marylyn D. Ritchie, Yan Shu and Katalin Susztak. Nature Genetics (2022) https://www.nature.com/articles/s41588-022-01097-w
